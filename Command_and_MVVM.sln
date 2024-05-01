@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{07DB39D0-AB6A-494A-B4C5-C11921A690DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmLesson", "MvvmLesson\MvvmLesson.csproj", "{8BA9869B-71D6-4608-BD09-FCBB1672B6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DB39D0-AB6A-494A-B4C5-C11921A690DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DB39D0-AB6A-494A-B4C5-C11921A690DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DB39D0-AB6A-494A-B4C5-C11921A690DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DB39D0-AB6A-494A-B4C5-C11921A690DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA9869B-71D6-4608-BD09-FCBB1672B6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA9869B-71D6-4608-BD09-FCBB1672B6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA9869B-71D6-4608-BD09-FCBB1672B6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA9869B-71D6-4608-BD09-FCBB1672B6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1807503-EFF1-4345-AB3B-AC98213D335F}
+	EndGlobalSection
+EndGlobal
